@@ -1,0 +1,1 @@
+# logging-spring-boot-starter
